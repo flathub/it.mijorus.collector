@@ -32,7 +32,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/mijorus/collector.git",
-                    "commit": "685a989b523056ab470304683728b9ebb3983a27"
+                    "commit": "f64926a8b6f4992a684606d818b9016fcf3eee98"
                 }
             ]
         }
