@@ -21,7 +21,3 @@ flatpak run it.mijorus.collector
 git clone git@github.com:flathub/it.mijorus.collector.git
 flatpak run org.flatpak.Builder build-dir --user --ccache --force-clean --install it.mijorus.collector.json
 ```
-
----
-
-**Technologies**: GNOME, GTK4, Libadwaita, Python

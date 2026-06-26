@@ -1,0 +1,6 @@
+# Use the following command to regenerate Python modules
+# flatpak-pip-generator --runtime=org.gnome.Sdk//50 -r requirements.txt -o python3-requirements
+
+pybind11
+Pillow==12.1.0
+requests
